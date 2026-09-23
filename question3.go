@@ -9,7 +9,7 @@ func main() {
 	var num2 float64
 	var operator string
 
-	fmt.Print("Enter the first number: ")
+	fmt.Print("enter the first number: ")
 	fmt.Scan(&num1)
 
 	fmt.Print("Enter an operator (+, -, *, /): ")
